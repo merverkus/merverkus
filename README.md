@@ -14,7 +14,7 @@ I'm a Computer Engineer. I'm currently learning Java and developing myself in Ja
 - Eclipse
 - Visual Studio Code
 
-##How to reach me:
+## How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/merverkus/)
 
